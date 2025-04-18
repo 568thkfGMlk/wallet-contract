@@ -1,4 +1,4 @@
-# Wallet V4
+UQBvVkdEYRxsKbfkx4IG1JUOXxbM0k66ImxZ51b1mHbE_Bv0# Wallet V4
 Wallet v4 is proposed version of wallet to replace v3 or older wallets.
 
 The main difference from previous versions consist in plugins functionality:
